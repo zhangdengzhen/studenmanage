@@ -1,4 +1,4 @@
-# studenmanage
+# javaweb课程设计
 学生管理系统，antd,springboot,vue
 # 功能
 ![image](https://github.com/zhangdengzhen/studenmanage/assets/68335755/e1728da9-7e44-4432-b6d1-b219c5f1575d)
