@@ -3,11 +3,12 @@
 # 功能
 ![image](https://github.com/zhangdengzhen/studenmanage/assets/68335755/e1728da9-7e44-4432-b6d1-b219c5f1575d)
 # 技术栈
-![image](https://github.com/zhangdengzhen/studenmanage/assets/68335755/38434607-e2a3-4407-b74a-e35ff191108e)
+![image](https://github.com/zhangdengzhen/studenmanage/assets/68335755/f2a0c7fa-4acc-485e-a120-4d1e98229869)
+
 # 效果图
+![image](https://github.com/zhangdengzhen/studenmanage/assets/68335755/38434607-e2a3-4407-b74a-e35ff191108e)
 ![image](https://github.com/zhangdengzhen/studenmanage/assets/68335755/87b44dbf-5988-423e-95c2-33889f2757d4)
 ![image](https://github.com/zhangdengzhen/studenmanage/assets/68335755/76757bc9-58b2-4d37-aa9a-593235ef978e)
-![image](https://github.com/zhangdengzhen/studenmanage/assets/68335755/f2a0c7fa-4acc-485e-a120-4d1e98229869)
 ![image](https://github.com/zhangdengzhen/studenmanage/assets/68335755/8c4858d3-d4d7-4320-96c9-a534f2d8353e)
 ![image](https://github.com/zhangdengzhen/studenmanage/assets/68335755/dd93e84e-0731-45d4-9b28-64e75c4ac310)
 ![image](https://github.com/zhangdengzhen/studenmanage/assets/68335755/b8b8de7e-8d26-4236-a411-cce4f2f5e2c3)
